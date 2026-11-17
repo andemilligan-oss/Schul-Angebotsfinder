@@ -1842,5 +1842,40 @@ window.ANGEBOTE = [
     "kosten": "Unterrichtsmaterial kostenfrei; weitere Kosten ggf. prüfen.",
     "hinweis": "Für die Projektwoche vom 1. bis 5. Februar 2027 reicht laut LaNU eine Entscheidung bis zur ersten Januarwoche 2027. Anschließend das verlinkte Anfrageformular nutzen. Allgemeine Empfehlung für andere Termine: 4–5 Monate. · Wintermodul und Terminverfügbarkeit. Bei Schulleitung nachfragen.",
     "link": "https://www.lanu.de/themen/umweltbildung/mobile-umweltbildung/anfrage-umweltmobil.html"
+  },
+  {
+    "titel": "Friedensstifter – musikalisch-dokumentarische Schulaufführung",
+    "format": "Exkursion",
+    "klassen": [
+      "8",
+      "9",
+      "10"
+    ],
+    "faecher": [
+      "Geschichte",
+      "Gemeinschaftskunde",
+      "Ethik",
+      "Deutsch",
+      "Musik"
+    ],
+    "themen": [
+      "Theater",
+      "Geschichte",
+      "Demokratie",
+      "Musik"
+    ],
+    "schlagwoerter": [
+      "Erinnerungskultur",
+      "Geschichte",
+      "Theater",
+      "Demokratie",
+      "Musik"
+    ],
+    "kurz": "Die Klasse besucht im Zentralwerk Dresden eine musikalisch-dokumentarische Theateraufführung über Verfolgung während des Zweiten Weltkriegs und heutige Erfahrungen mit Ausgrenzung. Zeitzeugenberichte und persönliche Geschichten werden mit Musik, Bewegungstheater, Video und Text verbunden. Schulvorstellung am 14. Dezember 2026 um 9:30 Uhr.",
+    "inhalte": "Erinnerungen jüdischer, Roma- und deutscher Minderheiten an Verfolgung in der damaligen Tschechoslowakei; Identität, Vorurteile, Krieg, Frieden, Demokratie und Verantwortung.",
+    "kontakt": "Zentralwerk Dresden – Karten über den offiziellen Ticketshop.",
+    "kosten": "Ticketpreis auf der Buchungsseite prüfen.",
+    "hinweis": "Schulvorstellung: 14.12.2026, 9:30 Uhr, Zentralwerk Dresden. Ab Klasse 8. Aufführungsdauer, freie Plätze und Preise vor der Buchung prüfen.",
+    "link": "https://zentralwerk.sumupstore.com/produkt/friedensstifter-vormittagsvorstellung-14-12-2026?related-products=1"
   }
 ];

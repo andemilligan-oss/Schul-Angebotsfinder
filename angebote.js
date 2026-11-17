@@ -1,6 +1,40 @@
-// Öffentlicher Angebotskatalog aus dem Notion-Bereich Projekte und Exkursionen, 15.11.2026.
-// Redaktionell überarbeitete Kurzbeschreibungen nach den Notion-Quelltexten; keine Live-Verbindung zu internen Konten.
+// Öffentlicher, redaktionell gepflegter Schul-Angebotsfinder. Stand: 17.11.2026.
+// Unterrichtseinheiten sind von extern begleiteten Programmen zu unterscheiden.
 window.ANGEBOTE = [
+  {
+    "titel": "Deutscher Tierschutzbund – Tierschutz in der Schule",
+    "format": "Unterrichtseinheit",
+    "klassen": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "faecher": [
+      "Ethik",
+      "Biologie",
+      "Geografie"
+    ],
+    "themen": [
+      "Nachhaltigkeit",
+      "Naturwissenschaften"
+    ],
+    "schlagwoerter": [
+      "Tierschutz",
+      "Tierhaltung",
+      "Ethik",
+      "Nachhaltigkeit",
+      "Biologie"
+    ],
+    "kurz": "Fertige Unterrichtseinheiten rund um Tierschutz, Landwirtschaft und Mensch-Tier-Beziehungen. Lehrkräfte laden die Materialien kostenlos herunter und führen die passende 90-Minuten-Einheit selbst durch.",
+    "inhalte": "Komplette Unterrichtsentwürfe mit Ablauf, Arbeitsblättern, Lösungen und Präsentationsmaterial; altersspezifische Einheiten in Ethik, Biologie und Geografie. Nicht jede Einheit eignet sich für jede Klasse.",
+    "kontakt": "Keine Buchung und kein externer Workshop nötig.",
+    "kosten": "Kostenfrei; Download ohne Registrierung.",
+    "hinweis": "Selbst durchführen · etwa 90 Minuten je Einheit · Fach und Klassenstufe auf der Materialseite auswählen.",
+    "link": "https://unterricht.tierschutzbund.de/unterrichtsmaterial"
+  },
   {
     "titel": "Aktion Zivilcourage – Vorurteile? Wir doch nicht!",
     "format": "Projekt",
@@ -1561,7 +1595,7 @@ window.ANGEBOTE = [
   },
   {
     "titel": "klicksafe – Medienbildung in Klasse 6",
-    "format": "Projekt",
+    "format": "Unterrichtseinheit",
     "klassen": [
       "6"
     ],
@@ -1579,12 +1613,12 @@ window.ANGEBOTE = [
       "Datenschutz",
       "Digitaler Alltag"
     ],
-    "kurz": "Die Klasse bearbeitet mit Materialien von klicksafe Fragen zum sicheren und verantwortlichen Umgang mit digitalen Medien. Die konkrete Unterrichtseinheit wird schulisch ausgewählt; eine externe Workshop-Durchführung ist nicht zugesagt.",
-    "inhalte": "Klicksafe-Materialien zu Medienkompetenz und sicherem digitalen Alltag; schulinterne Durchführung.",
-    "kontakt": "klicksafe – Anfrage über die verlinkte Anbieter-Webseite.",
-    "kosten": "Kosten und Teilnahmebedingungen auf Anfrage.",
-    "hinweis": "Materialeinsatz nach eigener Planung · Unterrichtseinheit und Zeitbedarf. Bei Schulleitung nachfragen.",
-    "link": "https://www.klicksafe.de/kontakt"
+    "kurz": "Kostenlose Unterrichtsmaterialien zu Internetsicherheit, Klassenchat, Datenschutz und digitalem Alltag. Lehrkräfte wählen passende Einheiten aus und führen sie selbst mit der Klasse durch – keine externe Buchung nötig.",
+    "inhalte": "Direkt einsetzbare Aufgaben, Arbeitsblätter, Unterrichtsimpulse und Materialien zur Medienkompetenz. Für Klasse 6 passende Einheit nach Thema und Altersfreigabe auswählen.",
+    "kontakt": "Keine Kontaktaufnahme oder externe Betreuung erforderlich.",
+    "kosten": "Kostenloser Materialdownload; Durchführung durch Lehrkräfte.",
+    "hinweis": "Selbst durchführen · Dauer je nach ausgewählter Unterrichtseinheit; Download und Vorbereitung durch die Lehrkraft.",
+    "link": "https://www.klicksafe.de/materialien"
   },
   {
     "titel": "Stolpersteinpflege mit dem Heimatverein",
@@ -1746,12 +1780,12 @@ window.ANGEBOTE = [
       "Suchtprävention",
       "Medienkompetenz"
     ],
-    "kurz": "In einem angeleiteten Präventionsprojekt sprechen Kinder über ihr erstes Smartphone, Klassenchats und einen gesunden Umgang mit Bildschirmzeit. Sie entwickeln Regeln, die ihnen im digitalen Alltag helfen.",
-    "inhalte": "Medienprävention für den Einstieg ins Smartphonealter, digitale Gewohnheiten und verantwortlicher Umgang.",
+    "kurz": "Medienpräventionsprogramm für Klasse 5 zum ersten Smartphone. Durchführung durch geschulte pädagogische Fachkräfte möglich – dafür sind Schulung und Methodenbox erforderlich; kein frei zugängliches Unterrichtspaket.",
+    "inhalte": "Materialgestütztes Präventionsprogramm zum Umgang mit Smartphone, Klassenchats und Bildschirmzeit. Umsetzung nur mit entsprechender Programmvorbereitung.",
     "kontakt": "Max & Min@ – Anfrage über die verlinkte Anbieter-Webseite.",
-    "kosten": "Kosten und Teilnahmebedingungen auf Anfrage.",
-    "hinweis": "Keine bestätigte Frist. Termin mit dem Anbieter abstimmen. · Lokale Durchführung und Kosten. Bei Schulleitung nachfragen.",
-    "link": "https://www.villa-schoepflin.de/kontakt"
+    "kosten": "Methodenbox laut Anbieter 125 €; Schulung und weitere Konditionen gesondert prüfen.",
+    "hinweis": "Wichtig: nicht ohne Schulung und Methodenbox eigenständig als fertige Unterrichtseinheit einsetzbar. Zuständigkeit und Voraussetzungen schulisch klären.",
+    "link": "https://www.villa-schoepflin.de/max-mina"
   },
   {
     "titel": "Aktion Glasklar – Alkoholprävention",

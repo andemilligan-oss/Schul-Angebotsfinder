@@ -1518,7 +1518,7 @@ window.ANGEBOTE = [
     "inhalte": "Offenes Jugendangebot zu Programmieren, KI, Robotik und Making für 12- bis 18-Jährige; Klassenformat ungeklärt.",
     "kontakt": "Jugend hackt Lab Dresden – Anfrage über die verlinkte Anbieter-Webseite.",
     "kosten": "Kosten und Teilnahmebedingungen auf Anfrage.",
-    "hinweis": "Dezember-Open-Labs ohne Anmeldung. · Eigene Klassentermine, Kapazität, Betreuung und Gruppenkosten beim Lab erfragen.",
+    "hinweis": "Kostenfreies offenes Angebot für 12–18-Jährige. Nächster Open-Lab-Termin: 02.12.2026, 16–18 Uhr. Schulklassentermine und Gruppenkapazität sind nicht bestätigt. Seit 04.11.2026 am Kraftwerk Mitte 3, Dresden.",
     "link": "https://jugendhackt.org/lab/dresden/"
   },
   {
@@ -1911,5 +1911,40 @@ window.ANGEBOTE = [
     "kosten": "Ticketpreis auf der Buchungsseite prüfen.",
     "hinweis": "Schulvorstellung: 14.12.2026, 9:30 Uhr, Zentralwerk Dresden. Ab Klasse 8. Aufführungsdauer, freie Plätze und Preise vor der Buchung prüfen.",
     "link": "https://zentralwerk.sumupstore.com/produkt/friedensstifter-vormittagsvorstellung-14-12-2026?related-products=1"
+  },
+  {
+    "titel": "mb21 on Tour – Ausstellung „Reboot Zukunft“ (21.–28.11.2026)",
+    "format": "Exkursion",
+    "klassen": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "faecher": [
+      "Informatik",
+      "Kunst",
+      "Deutsch",
+      "Gemeinschaftskunde"
+    ],
+    "themen": [
+      "Medienbildung",
+      "Kunst"
+    ],
+    "schlagwoerter": [
+      "Medienkompetenz",
+      "Dresden",
+      "Games",
+      "Robotik",
+      "Medienkunst"
+    ],
+    "kurz": "Interaktive Ausstellung mit prämierten Medienprojekten junger Menschen: Games, Animationen, Audio, Robotik und digitale Kunst laden zum Ausprobieren und zur Diskussion über kreative Mediengestaltung ein.",
+    "inhalte": "Medienkunst, digitale Kreativität, eigenständige Projektideen, gesellschaftliche Themen in digitalen Formaten.",
+    "kontakt": "Deutscher Multimediapreis mb21 / Medienkulturzentrum Dresden",
+    "kosten": "Laut Veranstaltungsinformation Eintritt frei; Gruppenkonditionen und mögliche Sondertermine prüfen.",
+    "hinweis": "Nur 21.–28.11.2026 in der Puppentheatersammlung Dresden. Werktags 15–18 Uhr, Wochenende 10–18 Uhr. Vormittägliche Schulklassenbesuche nicht regulär bestätigt; beim Veranstalter nachfragen. Nach dem 28.11.2026 auf Folgeausgabe prüfen und ggf. aus der öffentlichen Liste entfernen.",
+    "link": "https://www.mb21.de/ausstellungswoche.html"
   }
 ];
